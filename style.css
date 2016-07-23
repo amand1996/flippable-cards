@@ -1,12 +1,8 @@
-h4 {
+body>div>div>div>div>h4 {
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     font-size: 17px;
     font-weight: bolder;
     margin-left: 12px;
     color: white;
-}
-
-#card1,#card2,#card3,#card4,#card5,#card6{
-	padding:1em;
 }
